@@ -23,7 +23,7 @@ const MovieFetch = () => {
       <div className="container">
         <div className="logo">
           <span>
-            <Link to="/" onClick={() => setMovieList(movies)}>Movie</Link>
+            <Link to="https://soonaakil.github.io/Movie_Filter/" onClick={() => setMovieList(movies)}>Movie</Link>
           </span>
         </div>
         <nav className="navigaiton">
